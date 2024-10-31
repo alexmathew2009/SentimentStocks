@@ -1,6 +1,6 @@
 # Stock Prediction System
 
-This project is a stock price prediction system built using Long Short-Term Memory (LSTM) networks. The system predicts stock prices based on historical stock data and sentiment analysis from news and Twitter data. Initially developed as a second-year project, this system demonstrates fundamental applications of deep learning for stock prediction.
+This project is a stock price prediction system built using Long Short-Term Memory (LSTM) networks. The system predicts stock prices based on historical stock data and sentiment analysis from news and Twitter data. Initially developed as a University project, this system demonstrates fundamental applications of deep learning for stock prediction.
 
 **Disclaimer:** This project is a prototype for educational purposes and should not be used for actual trading or financial advice.
 
